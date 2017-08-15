@@ -1,0 +1,1 @@
+mix test_forum_endpoint
